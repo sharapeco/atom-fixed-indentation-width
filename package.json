@@ -1,18 +1,17 @@
 {
   "name": "fixed-indentation-width",
   "main": "./lib/fixed-indentation-width",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Fix indentation width as you like",
   "keywords": [
-	"indent",
-	"indentation",
-	"tab"
+    "indent",
+    "indentation",
+    "tab"
   ],
   "repository": "https://github.com/sharapeco/atom-fixed-indentation-width",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
