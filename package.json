@@ -8,7 +8,7 @@
 	"indentation",
 	"tab"
   ],
-  "repository": "https://github.com/atom/fixed-indentation-width",
+  "repository": "https://github.com/sharapeco/atom-fixed-indentation-width",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
